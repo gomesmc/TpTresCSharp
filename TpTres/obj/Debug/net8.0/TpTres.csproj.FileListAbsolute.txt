@@ -1,0 +1,14 @@
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\obj\Debug\net8.0\TpTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\obj\Debug\net8.0\TpTres.AssemblyInfoInputs.cache
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\obj\Debug\net8.0\TpTres.AssemblyInfo.cs
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\obj\Debug\net8.0\TpTres.csproj.CoreCompileInputs.cache
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\bin\Debug\net8.0\TpTres.exe
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\bin\Debug\net8.0\TpTres.deps.json
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\bin\Debug\net8.0\TpTres.runtimeconfig.json
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\bin\Debug\net8.0\TpTres.dll
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\bin\Debug\net8.0\TpTres.pdb
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\obj\Debug\net8.0\TpTres.dll
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\obj\Debug\net8.0\refint\TpTres.dll
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\obj\Debug\net8.0\TpTres.pdb
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\obj\Debug\net8.0\TpTres.genruntimeconfig.cache
+C:\Users\gclar\OneDrive\Área de Trabalho\tp\c#\TP2\TpTres\TpTres\obj\Debug\net8.0\ref\TpTres.dll

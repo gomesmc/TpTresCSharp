@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97CF3A84-90F0-4006-A7C2-A85FFD159DF1}|Ex7\\Ex7.csproj|c:\\users\\gclar\\onedrive\\\u00E1rea de trabalho\\tp\\c#\\tp2\\tptres\\ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CF3A84-90F0-4006-A7C2-A85FFD159DF1}|Ex7\\Ex7.csproj|solutionrelative:ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CBE2D1-4B5B-455E-84E9-A0818B606595}|Ex6\\Ex6.csproj|c:\\users\\gclar\\onedrive\\\u00E1rea de trabalho\\tp\\c#\\tp2\\tptres\\ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63CBE2D1-4B5B-455E-84E9-A0818B606595}|Ex6\\Ex6.csproj|solutionrelative:ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7599F2D4-FCF9-4693-97F7-71992E636081}|Ex5\\Ex5.csproj|c:\\users\\gclar\\onedrive\\\u00E1rea de trabalho\\tp\\c#\\tp2\\tptres\\ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7599F2D4-FCF9-4693-97F7-71992E636081}|Ex5\\Ex5.csproj|solutionrelative:ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC58EE-B100-4B1B-BCAC-B14F3DCEC548}|Ex3\\Ex3.csproj|c:\\users\\gclar\\onedrive\\\u00E1rea de trabalho\\tp\\c#\\tp2\\tptres\\ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC58EE-B100-4B1B-BCAC-B14F3DCEC548}|Ex3\\Ex3.csproj|solutionrelative:ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEEEB7B-0566-4A3E-9A05-54DC89EBA041}|Ex2\\Ex2.csproj|c:\\users\\gclar\\onedrive\\\u00E1rea de trabalho\\tp\\c#\\tp2\\tptres\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEEEB7B-0566-4A3E-9A05-54DC89EBA041}|Ex2\\Ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294AE2FA-A05C-4DBC-B582-03D52414E39B}|Ex10\\Ex10.csproj|c:\\users\\gclar\\onedrive\\\u00E1rea de trabalho\\tp\\c#\\tp2\\tptres\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294AE2FA-A05C-4DBC-B582-03D52414E39B}|Ex10\\Ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9023544-A522-4C23-B7EB-DE80B6B90F14}|Ex1\\Ex1.csproj|c:\\users\\gclar\\onedrive\\\u00E1rea de trabalho\\tp\\c#\\tp2\\tptres\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9023544-A522-4C23-B7EB-DE80B6B90F14}|Ex1\\Ex1.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9023544-A522-4C23-B7EB-DE80B6B90F14}|Ex1\\Ex1.csproj|c:\\users\\gclar\\onedrive\\\u00E1rea de trabalho\\tp\\c#\\tp2\\tptres\\ex1\\ex1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9023544-A522-4C23-B7EB-DE80B6B90F14}|Ex1\\Ex1.csproj|solutionrelative:ex1\\ex1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B521D54E-1E2B-41C1-B982-306776AFC82B}|Ex04\\Ex04.csproj|c:\\users\\gclar\\onedrive\\\u00E1rea de trabalho\\tp\\c#\\tp2\\tptres\\ex04\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B521D54E-1E2B-41C1-B982-306776AFC82B}|Ex04\\Ex04.csproj|solutionrelative:ex04\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0B86C2-7AF8-4582-89A8-3A48C7F17678}|TpTres\\TpTres.csproj|c:\\users\\gclar\\onedrive\\\u00E1rea de trabalho\\tp\\c#\\tp2\\tptres\\tptres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB0B86C2-7AF8-4582-89A8-3A48C7F17678}|TpTres\\TpTres.csproj|solutionrelative:tptres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex10\\Program.cs",
+              "RelativeDocumentMoniker": "Ex10\\Program.cs",
+              "ToolTip": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex10\\Program.cs",
+              "RelativeToolTip": "Ex10\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:24:04.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex7\\Program.cs",
+              "RelativeDocumentMoniker": "Ex7\\Program.cs",
+              "ToolTip": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex7\\Program.cs",
+              "RelativeToolTip": "Ex7\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:16:14.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex6\\Program.cs",
+              "RelativeDocumentMoniker": "Ex6\\Program.cs",
+              "ToolTip": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex6\\Program.cs",
+              "RelativeToolTip": "Ex6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:10:47.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex5\\Program.cs",
+              "RelativeDocumentMoniker": "Ex5\\Program.cs",
+              "ToolTip": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex5\\Program.cs",
+              "RelativeToolTip": "Ex5\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wD8AAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:00:26.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ex1.csproj",
+              "DocumentMoniker": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex1\\Ex1.csproj",
+              "RelativeDocumentMoniker": "Ex1\\Ex1.csproj",
+              "ToolTip": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex1\\Ex1.csproj",
+              "RelativeToolTip": "Ex1\\Ex1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T22:33:16.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ingresso.cs",
+              "DocumentMoniker": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex04\\Ingresso.cs",
+              "RelativeDocumentMoniker": "Ex04\\Ingresso.cs",
+              "ToolTip": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex04\\Ingresso.cs",
+              "RelativeToolTip": "Ex04\\Ingresso.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:07:54.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex3\\Program.cs",
+              "RelativeToolTip": "Ex3\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:46:32.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex2\\Program.cs",
+              "RelativeToolTip": "Ex2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:40:05.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\Ex1\\Program.cs",
+              "RelativeToolTip": "Ex1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:23:18.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\TpTres\\Program.cs",
+              "RelativeDocumentMoniker": "TpTres\\Program.cs",
+              "ToolTip": "C:\\Users\\gclar\\OneDrive\\\u00C1rea de Trabalho\\tp\\c#\\TP2\\TpTres\\TpTres\\Program.cs",
+              "RelativeToolTip": "TpTres\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:26:34.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
